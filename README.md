@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of vingle/flarum-configure-smtp.** Not for installation: use [Packagist](https://packagist.org/packages/vingle/flarum-configure-smtp) or the [upstream repository](https://github.com/tutula1/vingle-configure-smtp).
 
-**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/vingle-flarum-configure-smtp/tree/archive/v0.2.0) · Flarum: `^0.1.0-beta.5`
+**2** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/vingle-flarum-configure-smtp/tree/archive/v0.2.0) · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0-beta.1` | 2015-12-09 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/vingle-flarum-configure-smtp/tree/archive/v0.1.0-beta.1) |
+| `0.2.0` | 2016-04-07 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/vingle-flarum-configure-smtp/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/vingle-flarum-configure-smtp.json](https://github.com/flarchive/archive-index/blob/main/packages/vingle-flarum-configure-smtp.json)
 
